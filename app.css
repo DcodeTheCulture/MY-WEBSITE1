@@ -43,7 +43,7 @@
   #me {
     width: 300px;
     clip-path: circle();
-    margin-right: -150px;
+    margin-right: 500px;
     margin-left: -100px;
     position: relative;
     top: 50px;
