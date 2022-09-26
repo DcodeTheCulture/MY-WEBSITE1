@@ -263,3 +263,7 @@
     text-align: center;
   }
   
+
+.card-body{
+  padding-bottom: 5rem;
+}
